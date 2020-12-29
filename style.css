@@ -1,0 +1,35 @@
+body{
+    background:#efefef;
+     font-family:sans-serif
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+color:black; 
+text-decoration: underline;
+}
+div {
+    color: red;
+}
+
+h2 {
+border-width: 5px;
+border-color:red;
+border-style: solid;
+border-radius: 50%
+}
+
+p{
+background-color:goldenrod;
+padding:5px;
+text-align: center;
+margin-bottom: 5px;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    
+}
